@@ -4,3 +4,6 @@
 ``` Python
 print('Hello World')
 ```
+- [ ] Slay
+- [ ] Eat
+- [ ] Serve!
